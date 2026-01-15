@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "puppeteer-core": "^24.35.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/server-puppeteer": "^2025.5.12"
+  }
+}

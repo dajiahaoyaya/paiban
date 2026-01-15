@@ -1,0 +1,54 @@
+{
+  "passed": 12,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "state.js 存在",
+      "status": "PASS"
+    },
+    {
+      "name": "app.js 存在且包含选择器函数",
+      "status": "PASS"
+    },
+    {
+      "name": "basicRestSolver.js 更新",
+      "status": "PASS"
+    },
+    {
+      "name": "VACATION_TYPES 常量定义正确",
+      "status": "PASS"
+    },
+    {
+      "name": "年假配额计算函数存在",
+      "status": "PASS"
+    },
+    {
+      "name": "单元格渲染逻辑支持所有类型",
+      "status": "PASS"
+    },
+    {
+      "name": "选择器 UI 定义正确",
+      "status": "PASS"
+    },
+    {
+      "name": "togglePersonalRequest 函数支持新类型",
+      "status": "PASS"
+    },
+    {
+      "name": "updatePersonalRequestCell 支持新类型",
+      "status": "PASS"
+    },
+    {
+      "name": "basicRestSolver 支持 ANNUAL 类型",
+      "status": "PASS"
+    },
+    {
+      "name": "basicRestSolver 支持 LEGAL 类型",
+      "status": "PASS"
+    },
+    {
+      "name": "basicRestSolver 保持向后兼容",
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026/1/14 18:30:06",
+  "server": {
+    "url": "http://localhost:3000",
+    "status": "running"
+  },
+  "files": {
+    "total": 8,
+    "allExist": true
+  },
+  "browser": {
+    "chromeVersion": "78.0.3904.70",
+    "mcpPlaywrightCompatible": false,
+    "recommendation": "升级 Chrome 到 114+ 版本以使用 MCP Playwright"
+  }
+}

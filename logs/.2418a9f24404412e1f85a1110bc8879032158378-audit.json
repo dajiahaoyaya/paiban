@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\work\\招行工作_2025\\侦测排班需求---251208\\ShiftScheduler_JS\\logs\\.2418a9f24404412e1f85a1110bc8879032158378-audit.json",
+    "files": [
+        {
+            "date": 1768382643338,
+            "name": "E:\\work\\招行工作_2025\\侦测排班需求---251208\\ShiftScheduler_JS\\logs\\mcp-puppeteer-2026-01-14.log",
+            "hash": "124a95d8372a37869cda56726ddeca91ce70f2b27ad271bded20672ca6625cc0"
+        }
+    ],
+    "hashType": "sha256"
+}

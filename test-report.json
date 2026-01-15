@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-01-13T06:14:42.929Z",
+  "url": "http://localhost:3000",
+  "title": "排班系统 - Shift Scheduler",
+  "scripts": {
+    "total": 29,
+    "list": [
+      "./libs/tailwindcss.js",
+      "js/db.js",
+      "js/state.js",
+      "js/validators.js",
+      "js/dataLoader.js",
+      "js/utils/dateUtils.js",
+      "js/utils/statusUtils.js",
+      "js/utils/dialogUtils.js",
+      "js/utils/scheduleLockManager.js",
+      "js/utils/flowController.js",
+      "js/calendar/dateCalculator.js",
+      "js/calendar/holidayManager.js",
+      "js/calendar/lunarHolidays.js",
+      "js/calendar/restDayManager.js",
+      "js/managers/viewManager.js",
+      "js/filters/staffFilter.js",
+      "js/renderers/scheduleTableRenderer.js",
+      "js/rules/nightShiftRules.js",
+      "js/rules/dayShiftRules.js",
+      "js/rules/schedulingRules.js",
+      "js/rules/functionBalanceRules.js",
+      "js/managers/ruleConfigManager.js",
+      "js/managers/functionBalanceManager.js",
+      "js/solvers/basicRestSolver.js",
+      "js/solvers/nightShift.js",
+      "js/solvers/cspSolver.js",
+      "js/managers/schedulePeriodManager.js",
+      "js/staffManager.js",
+      "js/app.js"
+    ]
+  },
+  "size": 16437,
+  "criticalElements": {
+    "hasStore": false,
+    "hasDB": false,
+    "hasApp": true
+  }
+}
